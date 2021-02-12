@@ -2,7 +2,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/danitso/terraform-provider-virtualizor)](https://goreportcard.com/report/github.com/danitso/terraform-provider-virtualizor)
 [![GoDoc](https://godoc.org/github.com/danitso/terraform-provider-virtualizor?status.svg)](http://godoc.org/github.com/danitso/terraform-provider-virtualizor)
 
-# Terraform Provider for virtualizor
+# Terraform Provider for Virtualizor
 A Terraform Provider which manages resources supported by [Virtualizor](https://www.virtualizor.com/).
 
 ## Requirements
