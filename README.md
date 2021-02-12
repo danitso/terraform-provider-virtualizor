@@ -1,4 +1,3 @@
-[![Build Status](https://api.travis-ci.com/danitso/terraform-provider-virtualizor.svg?branch=main)](https://travis-ci.com/danitso/terraform-provider-virtualizor)
 [![Go Report Card](https://goreportcard.com/badge/github.com/danitso/terraform-provider-virtualizor)](https://goreportcard.com/report/github.com/danitso/terraform-provider-virtualizor)
 [![GoDoc](https://godoc.org/github.com/danitso/terraform-provider-virtualizor?status.svg)](http://godoc.org/github.com/danitso/terraform-provider-virtualizor)
 
